@@ -1,3 +1,0 @@
-D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\InnovateB.dir/objects.a
-D:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\InnovateB.dir/objects.a @CMakeFiles\InnovateB.dir\objects1.rsp
-D:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\InnovateB.dir/objects.a -Wl,--no-whole-archive -o InnovateB.exe -Wl,--out-implib,libInnovateB.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\InnovateB.dir\linkLibs.rsp
