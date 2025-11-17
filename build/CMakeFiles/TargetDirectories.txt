@@ -1,0 +1,9 @@
+D:/Innovate_course_B/InnovateB/build/CMakeFiles/InnovateB.dir
+D:/Innovate_course_B/InnovateB/build/CMakeFiles/edit_cache.dir
+D:/Innovate_course_B/InnovateB/build/CMakeFiles/rebuild_cache.dir
+D:/Innovate_course_B/InnovateB/build/CMakeFiles/list_install_components.dir
+D:/Innovate_course_B/InnovateB/build/CMakeFiles/install.dir
+D:/Innovate_course_B/InnovateB/build/CMakeFiles/install/local.dir
+D:/Innovate_course_B/InnovateB/build/CMakeFiles/install/strip.dir
+D:/Innovate_course_B/InnovateB/build/CMakeFiles/InnovateB_autogen_timestamp_deps.dir
+D:/Innovate_course_B/InnovateB/build/CMakeFiles/InnovateB_autogen.dir
